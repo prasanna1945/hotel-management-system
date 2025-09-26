@@ -34,6 +34,7 @@ This application allows hotel staff to **check in guests, manage guest records, 
     python hotel_management_system.py
 📷 Screenshots
 Main Window
+
 ![alt text](<Screenshot 2025-09-26 111102.png>)
 ![alt text](<Screenshot 2025-09-26 111127.png>)
 ![alt text](<Screenshot 2025-09-26 111151.png>)
